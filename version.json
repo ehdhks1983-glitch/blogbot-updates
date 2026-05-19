@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/ehdhks1983-glitch/blogbot-updates/releases/download/v1.1.0/NaverBlogBot_v1.1.0_Setup.exe",
-  "message": "🎉 v1.1.0 업데이트!\n\n✨ 신규 기능\n- 🏪 업종별 프롬프트 10종 (자영업자 특화)\n- 🤖 AI 콘텐츠 자동 표시 (한국 AI 기본법 대응)\n- 📖 사용설명서 사이드바 배너\n\n🔧 버그 수정\n- 쇼핑커넥트 가입 링크 수정"
+  "version": "1.1.1",
+  "download_url": "https://github.com/ehdhks1983-glitch/blogbot-updates/releases/download/v1.1.1/NaverBlogBot_v1.1.1_Setup.exe",
+  "message": "🎉 v1.1.1 출시!\n\n✨ 2026 네이버 로직 대응\n- AI 흔적 단어 자동 회피\n- 실제 사람 후기 스타일 자동 적용\n- 호기심 유발 + AEO 직답 구조\n\n🛡️ 안전 강화\n- 의료광고법 금지어 자동 치환\n- 죽은 AI 모델 자동 안전망\n\n🆕 신규 기능\n- 30일 체험판 추가\n- 링크 자동 기본 문구\n- AI 표시 체크박스 자동 OFF\n\n🎨 이미지 품질 향상\n- Gemini 한글 깨짐 방지\n- 최신 모델 기본 적용 (Nano Banana 2)"
 }
