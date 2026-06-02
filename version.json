@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/ehdhks1983-glitch/blogbot-updates/releases/download/v1.1.1/NaverBlogBot_v1.1.1_Setup.exe",
-  "message": "🎉 v1.1.1 출시!\n\n✨ 2026 네이버 로직 대응\n- AI 흔적 단어 자동 회피\n- 실제 사람 후기 스타일 자동 적용\n- 호기심 유발 + AEO 직답 구조\n\n🛡️ 안전 강화\n- 의료광고법 금지어 자동 치환\n- 죽은 AI 모델 자동 안전망\n\n🆕 신규 기능\n- 30일 체험판 추가\n- 링크 자동 기본 문구\n- AI 표시 체크박스 자동 OFF\n\n🎨 이미지 품질 향상\n- Gemini 한글 깨짐 방지\n- 최신 모델 기본 적용 (Nano Banana 2)"
+  "version": "1.2.1",
+  "download_url": "https://github.com/ehdhks1983-glitch/blogbot-updates/releases/download/v1.2.1/NaverBlogBot_v1.2.1_Setup.exe",
+  "message": "v1.2.1 업데이트 🎉\n\n🥇 키워드 발굴 기능\n- 황금키워드·연관키워드: 검색광고 API로 검색량 기반 추천\n\n📝 내 경험으로 쓰기\n- 진짜 후기를 입력하면 1인칭 경험담으로 자연스럽게 반영\n\n🎨 AI 이미지 대폭 개선\n- 키워드 맞춤 다양한 이미지 / 사진마다 다른 구도·조명\n- 명함·서류 깨진 글자 수정 + 이미지 모델 최신화\n\n🆕 AI 참고 이미지\n- 기준 사진 1장 넣으면 그걸 토대로 생성 (Gemini 권장)\n\n⚙ 업데이트 시 설정·라이선스 그대로 유지"
 }
