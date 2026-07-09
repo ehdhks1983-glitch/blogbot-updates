@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "download_url": "https://github.com/ehdhks1983-glitch/blogbot-updates/releases/download/v1.2.2/NaverBlogBot_v1.2.2_Setup.exe",
-  "message": "v1.2.2 업데이트 🔧\n\n📝 발행 안정화\n- 제목이 본문에도 같이 입력돼 예약발행이 실패하던 문제 수정\n- 제목칸 인식 강화 (포커스 실패해도 발행이 멈추지 않음)\n\n🖼 이미지 정확도\n- 대표(메인) 사진이 글 순서대로 정확히 들어가도록 수정\n- 본문 이미지가 소제목 위에 골고루 배치 (하단 쏠림 해결)\n\n✍️ 글 품질\n- 브랜드·사장님 1인칭 프롬프트가 확실히 반영되도록 개선\n- 소제목 볼드+글자크기 적용 안정화\n- 본문이 너무 짧게 나오던 문제 보강\n\n⚙ 업데이트 시 설정·라이선스 그대로 유지"
+  "version": "1.2.3",
+  "download_url": "https://github.com/ehdhks1983-glitch/blogbot-updates/releases/download/v1.2.3/NaverBlogBot_v1.2.3_Setup.exe",
+  "message": "v1.2.3 \uc5c5\ub370\uc774\ud2b8 ..."
 }
